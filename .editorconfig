@@ -30,3 +30,7 @@ indent_style = tab
 
 [docs/**.txt]
 max_line_length = 79
+
+[**.min.js]
+indent_style = ignore
+insert_final_newline = ignore
